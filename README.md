@@ -1,5 +1,5 @@
 ## **About me:**
-* I’m looking froward to a specialization in Computer Graphics & Videogames. </br>
+* I’m looking forward to a specialization in Computer Graphics & Videogames. </br>
 * I’m currently learning game design, programming and technical artist matters mostly with UE5 and Unity. </br>
 * I’m willing to collaborate on game projects and game jams! </br>
 * You can reach me at: odiazg01@outlook.com </br>
