@@ -14,8 +14,8 @@
 ### Git stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OniNoHanzo&layout=compact&theme=dark&langs_count=6"/> </br> </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=OniNoHanzo&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioDiazG&layout=compact&theme=dark&langs_count=6"/> </br> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioDiazG&show_icons=true&theme=dark"/>
 </div>
 
 ### Known OS:
