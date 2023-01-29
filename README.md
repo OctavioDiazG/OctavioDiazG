@@ -1,7 +1,14 @@
+# Octavio-DiazG
 ## **About me:**
 * I’m looking forward to a specialization in Computer Graphics & Videogames. </br>
 * I’m currently learning game design, programming and technical artist matters mostly with UE5 and Unity. </br>
 * I’m willing to collaborate on game projects and game jams! </br>
+* You can reach me at: odiazg01@outlook.com </br>
+
+* I’m looking forward for a specialization in Data Sience with Machine Learning and Deep Learning. </br>
+* I’m presently working with C++ and Dart programming. </br>
+* I’m currently learning programming with C++ and Python. </br>
+* I’m willing to work on any startup or a well-seated company! </br>
 * You can reach me at: odiazg01@outlook.com </br>
 
 ### Git stats:
