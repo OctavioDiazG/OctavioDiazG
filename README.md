@@ -1,4 +1,4 @@
-# Octavio-DiazG
+# OctavioDiazG
 ## **About me:**
 * I’m looking forward to a specialization in Computer Graphics & Videogames. </br>
 * I’m currently learning game design, programming and technical artist matters mostly with UE5 and Unity. </br>
