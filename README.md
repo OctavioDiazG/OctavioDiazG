@@ -1,5 +1,5 @@
 # OctavioDiazG
-## **About me:**
+## **About me:** 
 * I’m looking forward to a specialization in Computer Graphics & Videogames. </br>
 * I’m currently learning game design, programming and technical artist matters mostly with UE5 and Unity. </br>
 * I’m willing to collaborate on game projects and game jams! </br>
@@ -10,6 +10,12 @@
 * I’m currently learning programming with C++ and Python. </br>
 * I’m willing to work on any startup or a well-seated company! </br>
 * You can reach me at: odiazg01@outlook.com </br>
+
+## **Achievement Hunter**
+[TrueAchievements](https://www.trueachievements.com/gamer/Vito2001/gamecollection#) </br>
+<div align="center">
+  <img src="https://img.trueachievements.com/game/5275/929888?v=700"/> </br> </br>
+</div>
 
 ### Git stats:
 
