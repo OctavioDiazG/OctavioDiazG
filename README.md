@@ -16,10 +16,9 @@
 </div>
 
 ### Git stats:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioDiazG&layout=compact&theme=dark&langs_count=6"/> </br> </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioDiazG&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioDiazG&show_icons=true&theme=dark"/> </br> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioDiazG&theme=dark&langs_count=6&include_all_commits=true"/>
 </div>
 
 ### Known OS:
@@ -49,3 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
+
+
+
