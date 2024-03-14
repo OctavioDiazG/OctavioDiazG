@@ -1,13 +1,17 @@
 # OctavioDiazG
+
 ## **About me:** 
-* I’m looking forward to a specialization in Computer Graphics & Videogames. </br>
-* I’m currently learning game design, programming and technical artist matters mostly with UE5 and Unity. </br>
-* I’m willing to collaborate on game projects and game jams! </br>
+My name is Octavio Diaz im a videogame programmer speciliced in Unreal Engine 5, with strong background in Unity as a Technical Artist. I study in UNIAT, where the focus of the univeristy is making videogames.
+
+I started coding since my first year in high school Where i have learned the basics of OOP with C++ and Swift then i start my journey of makeing videogames from unity to unreal engine 5, and even the basics making them in console with C++ and Flutter with Dart.
+
+
+## **Interested in** 
+* I’m currently learning game design, programming and technical artist matters mostly with UE5. </br>
+* I’m presently working with C++ programming. </br>
+* I’m persistently learning programming with Python. </br>
 * I’m looking forward for a specialization in Data Sience with Machine Learning and Deep Learning. </br>
-* I’m presently working with C++ and Dart programming. </br>
-* I’m currently learning programming with C++ and Python. </br>
-* I’m willing to work on any startup or a well-seated company! </br>
-* You can reach me at: odiazg01@outlook.com </br>
+* I’m willing to collaborate on game projects and game jams! </br>
 
 ## **Achievement Hunter**
 [TrueAchievements](https://www.trueachievements.com/gamer/Vito2001/gamecollection#) </br>
@@ -17,8 +21,8 @@
 
 ### Git stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioDiazG&show_icons=true&theme=dark"/> </br> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioDiazG&theme=dark&langs_count=6&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioDiazG&theme=merko&langs_count=4&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioDiazG&show_icons=true&theme=merko"/>
 </div>
 
 ### Known OS:
@@ -27,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows8" alt="Windows8" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
 
-### Known software:
+### Known softwares:
 
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
@@ -50,4 +54,7 @@
 </div>
 
 
+## **Contact Information** 
+* Here is my [LinkTree](https://linktr.ee/Octavio_Diaz_G) </br>
+* You can reach me at: odiazg01@outlook.com </br>
 
