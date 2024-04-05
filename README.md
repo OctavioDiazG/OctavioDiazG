@@ -19,6 +19,10 @@ I started coding since my first year in high school Where i have learned the bas
   <img src="https://img.trueachievements.com/game/5275/929888?v=700" width=500 /> </br> </br>
 </div>
 
+<div align="center">
+   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/razer.svg" title="Razer" alt="Razer" width="100" height="100"/>&nbsp;&nbsp;&nbsp;
+</div>
+
 ### Git stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioDiazG&theme=merko&langs_count=4&include_all_commits=true"/>
